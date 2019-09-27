@@ -1,1 +1,2 @@
-# Reseach-Findings
+# My Reseach-Findings
+This is some interesting demo codes during my exploration towards serious topics. Keep updating...
