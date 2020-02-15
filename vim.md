@@ -25,3 +25,12 @@ G(go to the end of the file) gg(all the way up)
 
 fo(find o behind)
 Fo(find o before)
+
+add in ~/.vimrc:
+```
+set number
+
+set nocompatible
+
+syntax on
+```
