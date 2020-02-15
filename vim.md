@@ -1,4 +1,4 @@
-##Vim Opeations##
+## Vim Opeations
 
 0(moves to the left end of a line),$(moves to the right end),v（visual mode)
 
